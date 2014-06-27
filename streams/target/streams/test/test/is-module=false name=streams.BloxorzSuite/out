@@ -1,29 +1,5 @@
 [0m[[0minfo[0m] [0m[32mBloxorzSuite:[0m[0m
 [0m[[0minfo[0m] [0m[32m- terrain function level 1[0m[0m
 [0m[[0minfo[0m] [0m[32m- findChar level 1[0m[0m
-[0m[[0minfo[0m] [0m[31m- optimal solution for level 1 *** FAILED ***[0m[0m
-[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
-[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:252)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.Solver$class.solution(Solver.scala:86)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$3$$anon$3.solution$lzycompute(BloxorzSuite.scala:57)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$3$$anon$3.solution(BloxorzSuite.scala:57)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$3$$anon$3.<init>(BloxorzSuite.scala:58)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$3.apply$mcV$sp(BloxorzSuite.scala:57)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$3.apply(BloxorzSuite.scala:57)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$3.apply(BloxorzSuite.scala:57)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anon$1.apply(FunSuite.scala:1265)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at org.scalatest.Suite$class.withFixture(Suite.scala:1974)[0m[0m
-[0m[[0minfo[0m] [0m[31m  ...[0m[0m
-[0m[[0minfo[0m] [0m[31m- optimal solution length for level 1 *** FAILED ***[0m[0m
-[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
-[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:252)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.Solver$class.solution(Solver.scala:86)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$4$$anon$4.solution$lzycompute(BloxorzSuite.scala:63)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$4$$anon$4.solution(BloxorzSuite.scala:63)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$4$$anon$4.<init>(BloxorzSuite.scala:64)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$4.apply$mcV$sp(BloxorzSuite.scala:63)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$4.apply(BloxorzSuite.scala:63)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$4.apply(BloxorzSuite.scala:63)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anon$1.apply(FunSuite.scala:1265)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at org.scalatest.Suite$class.withFixture(Suite.scala:1974)[0m[0m
-[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[32m- optimal solution for level 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- optimal solution length for level 1[0m[0m
